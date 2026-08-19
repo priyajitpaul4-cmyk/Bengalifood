@@ -2,7 +2,7 @@
 
 > Brief tagline or one-line description of your project
 
-[![Live Demo](https://img.shields.io/badge/demo-live-brightgreen)](https://your-demo-url.com)
+[![Live Demo](https://img.shields.io/badge/demo-live-brightgreen)](https://priyajitpaul4-cmyk.github.io/Bengalifood/)
 [![License](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)](CONTRIBUTING.md)
 
